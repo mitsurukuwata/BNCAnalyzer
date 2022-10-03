@@ -1,6 +1,6 @@
 # BNCAnalyzer
 
-You can change the type of coind from Form.cs/124
+You can change the type of coin from Form.cs/124
 
 You need to make Form Design to start the program
 
